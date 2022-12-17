@@ -1,3 +1,4 @@
+---
 addons:
   tailscale:
     repository: davidfreina/addon-tailscale
