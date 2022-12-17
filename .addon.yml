@@ -1,0 +1,5 @@
+addons:
+  tailscale:
+    repository: davidfreina/addon-tailscale
+    target: tailscale
+    image: ghcr.io/davidfreina/tailscale/{arch}
